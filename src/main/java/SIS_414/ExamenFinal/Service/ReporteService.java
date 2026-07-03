@@ -1,5 +1,7 @@
-package SIS_414.ExamenFinal;
+package SIS_414.ExamenFinal.Service;
 
+import SIS_414.ExamenFinal.Repository.ReporteRepository;
+import SIS_414.ExamenFinal.Entity.ReporteEntity;
 import org.springframework.stereotype.Service;
 import java.util.List;
 

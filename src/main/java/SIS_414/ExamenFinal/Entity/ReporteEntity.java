@@ -1,4 +1,4 @@
-package SIS_414.ExamenFinal;
+package SIS_414.ExamenFinal.Entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

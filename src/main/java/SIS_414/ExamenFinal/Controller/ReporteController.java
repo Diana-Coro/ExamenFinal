@@ -1,5 +1,7 @@
-package SIS_414.ExamenFinal;
+package SIS_414.ExamenFinal.Controller;
 
+import SIS_414.ExamenFinal.Entity.ReporteEntity;
+import SIS_414.ExamenFinal.Service.ReporteService;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
