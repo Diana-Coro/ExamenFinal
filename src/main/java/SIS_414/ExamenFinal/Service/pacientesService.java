@@ -1,6 +1,6 @@
-package SIS_414.ExamenFinal.services;
-import SIS_414.ExamenFinal.entity.pacientesEntity;
-import SIS_414.ExamenFinal.repository.pacientesRepository;
+package SIS_414.ExamenFinal.Service;
+import SIS_414.ExamenFinal.Entity.pacientesEntity;
+import SIS_414.ExamenFinal.Repository.pacientesRepository;
 import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;

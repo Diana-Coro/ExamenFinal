@@ -1,7 +1,7 @@
-package SIS_414.ExamenFinal.controller;
+package SIS_414.ExamenFinal.Controller;
 
-import SIS_414.ExamenFinal.services.pacientesService;
-import SIS_414.ExamenFinal.entity.pacientesEntity;
+import SIS_414.ExamenFinal.Service.pacientesService;
+import SIS_414.ExamenFinal.Entity.pacientesEntity;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.ExampleObject;

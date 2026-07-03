@@ -1,4 +1,4 @@
-package SIS_414.ExamenFinal.entity;
+package SIS_414.ExamenFinal.Entity;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;
 import java.time.LocalDate;
